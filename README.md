@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌙 Nebuna
 
-## Getting Started
+**Nebuna** is a modern, elegant paper trading platform designed for intuitive strategy simulation, real-time learning, and risk-free trading.  
+Crafted with clean UI, deep space aesthetics, and high-performance tooling.
 
-First, run the development server:
+> ✨ _Simulate. Strategize. Succeed._
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 📈 **Live Paper Trading**  
+  Practice trades with real-time market data, no capital required.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🧠 **Strategy Backtesting**  
+  Analyze historical data and indicators to refine your edge.
 
-## Learn More
+- 🌌 **Clean, Calm UI**  
+  Dark-mode first. Built for focus, not distractions.
 
-To learn more about Next.js, take a look at the following resources:
+- ⚡ **Fast Data Sync**  
+  Powered by Redis & Angel One APIs for snappy execution.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🧪 **Built-in Technical Indicators**  
+  EMAs, VWAP, RSI, MACD, and more (customizable soon).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- 🛠️ **Full Stack Ready**  
+  Built using Next.js, TailwindCSS, MongoDB, Redis, and more.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📦 Tech Stack
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Layer    | Tools                                         |
+| -------- | --------------------------------------------- |
+| Frontend | Next.js, TailwindCSS, React, tsparticles      |
+| Backend  | Redis (live price cache), MongoDB             |
+| Auth     | NextAuth.js / Custom JWT                      |
+| APIs     | Angel One SmartAPI (price data)               |
+| Hosting  | Vercel (frontend), Railway / Render (backend) |
+
+---
+
+## 📸 Preview
+
+> Coming soon: Screenshots, live demo, and UI walk-through
+
+---
