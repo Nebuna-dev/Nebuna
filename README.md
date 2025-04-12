@@ -31,13 +31,13 @@ Crafted with clean UI, deep space aesthetics, and high-performance tooling.
 
 ## 📦 Tech Stack
 
-| Layer    | Tools                                         |
-| -------- | --------------------------------------------- |
-| Frontend | Next.js, TailwindCSS, React, tsparticles      |
-| Backend  | Redis (live price cache), MongoDB             |
-| Auth     | NextAuth.js / Custom JWT                      |
-| APIs     | Angel One SmartAPI (price data)               |
-| Hosting  | Vercel (frontend), Railway / Render (backend) |
+| Layer    | Tools                                    |
+| -------- | ---------------------------------------- |
+| Frontend | Next.js, TailwindCSS, React, tsparticles |
+| Backend  | Redis (live price cache), XataDB         |
+| Auth     | NextAuth.js / Custom JWT                 |
+| APIs     | Angel One SmartAPI (price data)          |
+| Hosting  | Vercel                                   |
 
 ---
 
