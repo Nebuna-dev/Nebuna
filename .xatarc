@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Swayam-Mhaskar-s-workspace-qpj7l0.ap-southeast-2.xata.sh/db/Nebuna",
+  "codegen": {
+    "output": "src/utils/xata.ts"
+  }
+}
