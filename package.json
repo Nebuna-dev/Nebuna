@@ -11,10 +11,16 @@
     "test:coverage": "vitest --coverage"
   },
   "dependencies": {
+    "@tsparticles/engine": "^3.8.1",
+    "@tsparticles/preset-stars": "^3.2.0",
+    "@tsparticles/react": "^3.0.0",
     "@xata.io/client": "^0.0.0-next.v93343b9646f57a1e5c51c35eccf0767c2bb80baa",
+    "framer-motion": "^12.6.5",
     "next": "15.3.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
+    "tsparticles": "^3.8.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
